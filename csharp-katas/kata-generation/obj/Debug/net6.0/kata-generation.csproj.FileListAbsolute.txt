@@ -1,0 +1,15 @@
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/bin/Debug/net6.0/kata-generation
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/bin/Debug/net6.0/kata-generation.deps.json
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/bin/Debug/net6.0/kata-generation.runtimeconfig.json
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/bin/Debug/net6.0/kata-generation.dll
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/bin/Debug/net6.0/ref/kata-generation.dll
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/bin/Debug/net6.0/kata-generation.pdb
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/obj/Debug/net6.0/kata-generation.csproj.AssemblyReference.cache
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/obj/Debug/net6.0/kata-generation.GeneratedMSBuildEditorConfig.editorconfig
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/obj/Debug/net6.0/kata-generation.AssemblyInfoInputs.cache
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/obj/Debug/net6.0/kata-generation.AssemblyInfo.cs
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/obj/Debug/net6.0/kata-generation.csproj.CoreCompileInputs.cache
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/obj/Debug/net6.0/kata-generation.dll
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/obj/Debug/net6.0/ref/kata-generation.dll
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/obj/Debug/net6.0/kata-generation.pdb
+/home/jake/source/repos/c-sharp-kata-machine/csharp-katas/kata-generation/obj/Debug/net6.0/kata-generation.genruntimeconfig.cache
